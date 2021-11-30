@@ -26,7 +26,7 @@ pull logs)
 * Please check shared slides for any reference *
 
 
-- Sample agent config for passive checks on Ubuntu
+Sample agent config for passive checks on Ubuntu
 # File for process id
 PidFile=/run/zabbix/zabbix_agentd.pid
 # Zabbix agent log location
